@@ -53,6 +53,6 @@
 
 | Top Languages                                               | GitHub Stats                                               |
 | ----------------------------------------------------------- | ---------------------------------------------------------- |
-| ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=SuryakantM24&show_icons=true&theme=radical) | ![github stats](https://github-readme-stats.vercel.app/api?username=SuryakantM24&show_icons=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryakantM24&layout=compact&theme=radical) | ![github stats](https://github-readme-stats.vercel.app/api?username=SuryakantM24&show_icons=true&theme=radical) |
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakantm24&theme=radical" alt="suryakantm24" /></p>
