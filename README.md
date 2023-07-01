@@ -37,7 +37,6 @@
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
 [![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
 [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
 [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com)
