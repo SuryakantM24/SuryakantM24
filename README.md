@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/suryakant_mudke24" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="suryakant_mudke24" height="30" width="28" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/suryakantm24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suryakantmrme2" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/suryakantm24" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="suryakantmrme2" height="50" width="40" /></a>
 <a href="https://dev.to/suryakantm24" target="_blank">
   <img align="center" src="https://skillicons.dev/icons?i=devto" alt="suryakantm24" height="35" width="40" />
 </a>
@@ -38,12 +38,12 @@
 [![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
 [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+<!--[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
 [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)-->
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to)
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
